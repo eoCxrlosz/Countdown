@@ -1,4 +1,5 @@
-let to = new Date('May 26 2023 00:00:00');
+let to = new Date('May 26 2023 00:00:00'); //my birthday :P
+
 function update() {
     let from = new Date(),
         diff = to - from;
